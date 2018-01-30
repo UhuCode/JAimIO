@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/LoggerUtil"/>
+	<classpathentry kind="lib" path="C:/workspace/ImageJ/ij.jar" sourcepath="/ImageJ/source"/>
+	<classpathentry kind="lib" path="/vecmath/build/opt/lib/ext/vecmath.jar" sourcepath="/vecmath/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
